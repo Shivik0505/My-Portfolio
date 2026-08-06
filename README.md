@@ -4,7 +4,7 @@
 
 A clean, modern, fully responsive **dark-themed portfolio website** built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
-🌐 **Live Site:** [shivam-movieflix.netlify.app](https://shivam-movieflix.netlify.app) *(update with your portfolio URL after deploying)*  
+🌐 **Live Site:** [shivam-vikhar-portfolio.netlify.app](https://shivam-vikhar-portfolio.netlify.app)  
 💼 **LinkedIn:** [linkedin.com/in/shivamvikhar](https://www.linkedin.com/in/shivamvikhar)  
 🐙 **GitHub:** [github.com/Shivik0505](https://github.com/Shivik0505)  
 📧 **Email:** shivamvikhar0505@gmail.com  
